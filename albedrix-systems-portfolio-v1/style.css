@@ -104,7 +104,7 @@ body {
 
 .hero h2 {
   color: #ff2a4f;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   margin-bottom: 25px;
   font-weight: 400;
 }
@@ -112,7 +112,7 @@ body {
 .hero p {
   color: #cfcfcf;
   margin-bottom: 40px;
-  font-size: 1.05rem;
+  font-size: 1.00rem;
 }
 
 /* ================= CIRCUIT BACKGROUND ================= */
@@ -142,7 +142,7 @@ body {
 .hero-buttons {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 25px;
   flex-wrap: wrap;
 }
 
