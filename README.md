@@ -22,6 +22,12 @@ The website showcases:
 * Full Stack Development
 * Research & Development
 
+## Contacts
+
+* Linked in
+* Email
+* Github
+
 ## Status
 
 Version 1 (V1) – Initial Release
